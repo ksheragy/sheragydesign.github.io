@@ -11,4 +11,4 @@ git init
 # Initialized empty Git repository in /Users/ksheragy/sheragydesign.github.io/.git/
 
 touch README
-# Creates a file called "README" in your Hello-World directory
+# Creates a file called "README" in your sheragydesign directory
